@@ -1,0 +1,131 @@
+ 🤝 Contributing to PWC – Prigid World Cloud
+
+Hi there! 👋  
+First of all, **thank you** for showing interest in helping build the future of open, intelligent, and decentralized cloud infrastructure.
+
+This project is in its **early stages**, and we welcome **everyone** — developers, designers, writers, testers, dreamers. Your contributions, no matter how big or small, are valuable.
+
+---
+
+ 🧭 What is PWC?
+
+PWC (Prigid World Cloud) is an open-source initiative to build a **next-generation cloud platform** that is:
+
+- Modular and composable
+- AI-native
+- Privacy-respecting
+- Globally inclusive
+- Built by and for the open-source community
+
+We’re reimagining cloud computing from the ground up — and we want YOU to help shape it.
+
+---
+
+🛠️ Ways to Contribute
+
+ 🧑‍💻 Code
+- Core cloud components (Compute, Storage, Network, Security)
+- AI & ML integration (Inference engines, model hub, etc.)
+- Edge and decentralized computing modules
+- DevOps tooling and orchestration
+- Frontend dashboards and portals
+
+ 📚 Documentation
+- Writing architecture overviews
+- Creating onboarding guides
+- Drafting use case documents
+- Translating content
+
+ 🎨 Design
+- UI/UX for the dashboard
+- Illustrations for docs and website
+- Identity design (logos, badges, etc.)
+
+ 🧪 Testing & QA
+- Test framework setup
+- Writing unit/integration tests
+- File bug reports or propose enhancements
+
+ 🌱 Community
+- Start a discussion
+- Propose governance models
+- Host events or build local chapters
+
+---
+
+ 📦 Getting Started
+
+1. **Fork** the repository
+2. **Clone** your fork locally
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/pwc.git
+   cd pwc
+
+3. Create a new branch
+
+git checkout -b your-feature-name
+
+
+4. Make your changes
+
+
+5. Commit and push
+
+git commit -m "feat: add your feature"
+git push origin your-feature-name
+
+
+6. Create a Pull Request from your branch to main
+We’ll review and give feedback quickly!
+
+
+
+
+---
+
+💡 Contribution Guidelines
+
+Be kind and respectful
+
+Use clear commit messages
+
+Document your code where applicable
+
+Follow the project structure and style
+
+Ask questions — we love questions!
+
+
+
+---
+
+🗣️ Join the Community
+
+We’re growing a global community of builders and innovators.
+You can:
+
+Chat with the team (Discord coming soon)
+
+Join planning meetings
+
+Subscribe to updates
+
+Help shape PWC’s direction
+
+
+📧 Want to help organize or sponsor PWC? Email: pwc@prigid.org
+
+
+---
+
+📜 License
+
+All contributions will be made under the MIT License.
+
+
+---
+
+Thank you for helping build a better cloud for everyone. 🌍✨
+Together, let’s make history.
+
+— Team PWC 🚀
